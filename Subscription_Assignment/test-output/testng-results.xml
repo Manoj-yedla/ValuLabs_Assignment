@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-28T15:32:49 IST" name="Default suite" finished-at="2023-09-28T15:33:51 IST" duration-ms="62085">
+    <groups>
+    </groups>
+    <test started-at="2023-09-28T15:32:49 IST" name="Default test" finished-at="2023-09-28T15:33:51 IST" duration-ms="62085">
+      <class name="ManojYedla.Subscription_Assignment.subscription_Sanity">
+        <test-method is-config="true" signature="configureDriver()[pri:0, instance:ManojYedla.Subscription_Assignment.subscription_Sanity@7cf162bc]" started-at="2023-09-28T15:32:49 IST" name="configureDriver" finished-at="2023-09-28T15:33:12 IST" duration-ms="23263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureDriver -->
+        <test-method signature="TestCase01ValidatingCountryKsa()[pri:0, instance:ManojYedla.Subscription_Assignment.subscription_Sanity@7cf162bc]" started-at="2023-09-28T15:33:12 IST" name="TestCase01ValidatingCountryKsa" finished-at="2023-09-28T15:33:51 IST" duration-ms="38666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01ValidatingCountryKsa -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:ManojYedla.Subscription_Assignment.subscription_Sanity@7cf162bc]" started-at="2023-09-28T15:33:51 IST" name="closeDriver" finished-at="2023-09-28T15:33:51 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- ManojYedla.Subscription_Assignment.subscription_Sanity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
